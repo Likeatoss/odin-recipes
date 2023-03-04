@@ -1,0 +1,15 @@
+* {
+    background-color: beige;
+}
+
+.header {
+    background-color: rgba(100, 28, 0, 0.747);
+    color: white;
+    text-align: center;
+}
+
+.recipes {
+    color: blue;
+    text-align: left;
+    text-decoration: none;
+}
